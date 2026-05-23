@@ -14,6 +14,7 @@ https://www.linkedin.com/in/eddonner/
 If you'd like to go more deeply into LLMs and Agents:  
 - I have intensive online courses that cover this material, and tons more, on being an AI Builder, an AI Engineer, and an AI Leader. Here is [the full curriculum](https://edwarddonner.com/curriculum). Please do get in touch if you decide to take any of them.  
 - I am building a [Directory of Proficient AI Engineers](https://edwarddonner.com/proficient) who have completed my full curriculum   
+- I have a new [YouTube channel](https://youtube.com/@edward.donner) with videos on Agents and Coding Agents  
 - I'm running a number of [Live Events](https://edwarddonner.com/2025/11/11/ai-live-event/) with O'Reilly and Pearson  
 
 ## Pre-Setup: running Ollama locally with Open-Source
