@@ -55,4 +55,4 @@ The best way to learn is by **DOING**. I don't type all the code during the work
 
 You can keep your API spend very low throughout this course; you can monitor spend at the OpenAI dashboard [here](https://platform.openai.com/usage).
 
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
+
